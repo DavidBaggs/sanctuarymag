@@ -1,20 +1,19 @@
-html { 
-  background: url(/dark-hardback.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 #wrap {
-	margin-left: 33%;
-	margin-top: 45%;
+	background: url(/dark-hardback); no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
 
 h1 {
+	margin-left: 33%;
+	margin-top: 15%;
 	font-size: 60px;
 }
 
 h2 {
+	margin-left: 33%;
+	margin-top: 15%;
 	font-size: 20px
 }
