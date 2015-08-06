@@ -1,19 +1,18 @@
-#wrap {
-	background: url(/dark-hardback); no-repeat center center fixed; 
-  	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
+html {
+	background-image: url(dark-hardback.png);
+	background-repeat: repeat;
 }
 
 h1 {
-	margin-left: 33%;
-	margin-top: 15%;
+	font-family: "Vollkorn", serif;
+	font-weight: 400;
+	color: white;
 	font-size: 60px;
 }
 
 h2 {
-	margin-left: 33%;
-	margin-top: 15%;
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	color: white;
 	font-size: 20px
 }
