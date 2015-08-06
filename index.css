@@ -5,3 +5,16 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#wrap {
+	margin-left: 33%;
+	margin-top: 45%;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 20px
+}
